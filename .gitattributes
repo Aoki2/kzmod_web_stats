@@ -1,0 +1,8 @@
+*.dll binary
+*.jpg binary
+*.exe binary
+*.gif binary
+*.png binary
+*.psd binary
+
+*.sln text eol=crlf
